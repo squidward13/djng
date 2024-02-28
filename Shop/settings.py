@@ -32,7 +32,7 @@ CSRF_COOKIE_SECURE = True
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', "Cepam.mysql.pythonanywhere-services.com"]
+ALLOWED_HOSTS = ['127.0.0.1', 'Cepam.mysql.pythonanywhere-services.com', 'cepam.pythonanywhere.com']
 
 INTERNAL_IPS = ['127.0.0.1','10.0.4.165']
 
